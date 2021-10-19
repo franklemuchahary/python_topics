@@ -7,4 +7,4 @@ The following topics are currently covered. More topics will be added in the fut
 - Concurrent Programming in Python (https://docs.python.org/3/library/concurrency.html, https://docs.python.org/3/library/asyncio.html)
 - Sorting Algorithms in Python
 - Object Oriented Programming
-- Miscellaneous Topics: Generators, Iterators, Lambda Functions, Exception Handling
+- **Other Miscellaneous Topics:** Generators, Iterators, Lambda Functions, Exception Handling
