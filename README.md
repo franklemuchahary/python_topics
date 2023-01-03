@@ -5,6 +5,6 @@ The following topics are currently covered. More topics will be added in the fut
 
 - **Pandas** for Exploratory Data Analysis (https://pandas.pydata.org/)
 - **Concurrent Programming** in Python (https://docs.python.org/3/library/concurrency.html, https://docs.python.org/3/library/asyncio.html)
-- **Data Structures and Algorithms** in Python (Includes solutions to come common DS-Algo Problems from LeetCode)
+- **Data Structures and Algorithms** in Python (Includes solutions to some common DS-Algo Problems from LeetCode)
 - **Object Oriented** Programming
 - **Other Miscellaneous Topics:** Generators, Iterators, Lambda Functions, Exception Handling
